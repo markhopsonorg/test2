@@ -1,0 +1,5 @@
+{
+  "name": "github-repo-creator Project",
+  "description": "github-repo-creator Project",
+  "nameTemplate": "{{.Function.Name}}"
+}

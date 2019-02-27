@@ -1,0 +1,23 @@
+{
+  "name": "github-repo-creator",
+  "version": "1.0.0",
+  "description": "This Lambda creates Github Wishabi repo and can assign a team to the repo with Admin, Read or Write access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wishabi/github-repo-creator.git"
+  },
+  "author": "Flipp Corp.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wishabi/github-repo-creator/issues"
+  },
+  "homepage": "https://github.com/wishabi/github-repo-creator#readme",
+  "dependencies": {
+    "@flipp/node-logger": "^1.4.3",
+    "@flipp/ssm-utils": "^1.0.1"
+  }
+}
