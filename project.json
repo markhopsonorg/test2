@@ -1,5 +1,5 @@
 {
-  "name": "github-repo-creator Project",
-  "description": "github-repo-creator Project",
+  "name": "test2 Project",
+  "description": "{{LAMBDA_NAME}} Project",
   "nameTemplate": "{{.Function.Name}}"
 }

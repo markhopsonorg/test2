@@ -1,4 +1,4 @@
-# Github Repo Creator (Serverless Function)
+# test2
 
 This Lambda creates Github Wishabi repo and can assign a team to the repo with Admin, Read or Write access.
 

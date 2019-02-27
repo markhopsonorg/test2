@@ -1,6 +1,6 @@
 {
-  "description": "github-repo-creator Lambda",
-  "role": "arn:aws:iam::280159221453:role/mhopson-lambda-role",
+  "description": "test2 Lambda",
+  "role": "arn:aws:iam::280159221453:role/{{LAMBDA_NAME}}",
   "memory": 512,
   "runtime": "nodejs8.10",
   "timeout": 120,

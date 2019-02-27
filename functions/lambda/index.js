@@ -23,7 +23,7 @@ const sampleEvent = {
 };
 
 const sampleContext = {
-  functionName: '',
+  functionName: 'test2',
 };
 
 exports.handle(sampleEvent, sampleContext, (err) => {
